@@ -1,2 +1,2 @@
-# distinguishRacistSentence
-Program to automatically detect racism and issue a warning through a popup window
+# RacismX
+Program to automatically detect racism and issue a warning through a popup window. 
